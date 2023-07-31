@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\BLOBData\BLOBData\bin\Debug\BLOBData.exe.config
+C:\Users\HP\source\repos\BLOBData\BLOBData\bin\Debug\BLOBData.exe
+C:\Users\HP\source\repos\BLOBData\BLOBData\bin\Debug\BLOBData.pdb
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.Form1.resources
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.Properties.Resources.resources
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.exe
+C:\Users\HP\source\repos\BLOBData\BLOBData\obj\Debug\BLOBData.pdb
